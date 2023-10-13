@@ -2,5 +2,139 @@ RENCANA-FRONTEND
 
 WEB DEVELOPER
 -HTML
--CSS
--JAVASCRIPT
+ *Paragraf
+ *Heading
+ *List
+ *Hyperlink
+ *Image
+ *Table
+ *Table (merging)
+ *Form
+ *Form (lanjutan)
+
+-CSS DASAR
+ *Font Styling
+ *Text Styling
+ *Background
+ *Selector
+ *Pseudo Class
+ *Inheritence
+ *Specificity
+
+-CSS LAYOUTING
+ *Display
+ *Dimensi & Overflow
+ *Box Model : Konsep
+ *Box Model : Margin
+ *Box Model : Padding, Border & bOX Sizing
+ *Box Model : CSS Reset
+ 1.Box Model - Latihan
+ *Float
+ *Clear
+ 2.FLoat - Latiah Membuat Website
+ *Position : Static & Relative
+ *Postion : Absolut & Fixed
+ *Position : z-index & Penggunaan lain dari Position
+ 3.Latihan Position
+
+-CSS3
+ *Border Radius
+ *Opacity
+ *RGBa & HSLa
+ *Box Shadow
+ *Text Shadow
+ *Linear Gradiant
+ *Radial Gradiant
+ *Font Face
+ *Web Font Generator
+ *Vendor Prefix
+ *Filter
+ *Transform
+ *Transition (part 1)
+ *Transition (part 2)
+ *Animation
+  1.Latihan membuat HTML & CSS3 (Bagian 1)
+  2.Latihan membuat HTML & CSS3 (Bagian 2)
+  3.Latihan membuat HTML & CSS3 (Bagian 3)
+
+-JAVASCRIPT Dasar
+ *Lingkungan Pengembangan JAVASCRIPT
+ *Nilai Dan Tipe Data Pada JAVASCRIPT
+ *Tipe Data Pada JAVASCRIPT : Angka
+ *Operator Pada JAVASCRIPT : Aritmatika,Penugasan & Perbandingan
+ *Operator Pada JAVASCRIPT : Logika, String, Typeof & Kondisional
+ *Tipe Data Pada JAVASCRIPT : String
+ *Tipe Data Pada JAVASCRIPT : Boolean
+ *Variabel pada JAVASCRIPT
+ *Menulis JAVASCRIPT
+ *Popup Box Pada JAVASCRIPT
+ *Control Flow Pada JAVASCRIPT
+ *Pengulangan : While Pada JAVASCRIPT
+ *Pengulangan : Table Penelusuran
+ *Pengulangan : For Pada JAVASCRIPT
+ *Pengkondisian : If Else Pada JAVASCRIPT
+ *Pengkondisian : Else If Pada JAVASCRIPT
+ *Pengkondisian : Latihan Pengkondisian Pada JAVASCRIPT
+ *Pengkondisian : Switch Pada JAVASCRIPT
+ *Pengulangan & Pengkondisian Bersarang Pada JAVASCRIPT
+ *Membuat Game Suwit Jawa Dengan JAVASCRPT
+ *Function Pada JAVASCRIPT : Intro
+ *Function Pada JAVASCRIPT : Paramater dan Argument
+ *Function Pada JAVASCRIPT : Refactoring
+ *Function Pada JAVASCRIPT : Variable Scope
+ *Function Pada JAVASCRIPT : Rekursif
+ *Function Pada JAVASCRIPT : Declaration vs. Expression
+ *Array Pada JAVASCRIPT : Intro
+ *Array Pada JAVASCRIPT : Manipulasi Array
+ *Array Pada JAVASCRIPT : Slice & Splice
+ *Array Pada JAVASCRIPT : Foreach & Map
+ *Array Pada JAVASCRIPT : Filter & Find
+ 1.Membuat Program Pengolahan Penumpang Angkot Dengan JAVASCRIPT (Bagain 1)
+ 2.Membuat Program Pengolahan Penumpang Angkot Dengan JAVASCRIPT (Bagain 2)
+ *Object Pada JAVASCRIPT : Intro
+ *Object Pada JAVASCRIPT : Membuat Object
+ *Object Pada JAVASCRIPT : This
+ *Object Pada JAVASCRIPT : Latihan Object
+
+- JAVASCRIPT & DOM
+ *JAVASCRIPT & DOM - DOM Tree
+ *JAVASCRIPT & DOM - DOM Selection (Part 1)
+ *JAVASCRIPT & DOM - DOM Selection (Part 2)
+ *JAVASCRIPT & DOM - Manipulation (Part 1)
+ *JAVASCRIPT & DOM - Manipulation (Part 2)
+ *JAVASCRIPT & DOM - DOM Events
+ *JAVASCRIPT & DOM - Bermain Dengan Warna (Latihan DOM 1)
+ *JAVASCRIPT & DOM - Membuat Game Suwit Jawa v2.0 (Latihan DOM 1)
+ *JAVASCRIPT & DOM - DOM Traversal
+ *JAVASCRIPT & DOM - Prevent Default
+ *JAVASCRIPT & DOM - Event Bubbling
+ *JAVASCRIPT & DOM - Membuat Image Gallery
+ *JAVASCRIPT & DOM - Tahapan Belajar jAVASCRIPT Selanjutnya
+
+-JAVASCRIPT LANJUTAN
+ *JAVASCRIPT LANJUTAN - Object (Revisited)
+ *JAVASCRIPT LANJUTAN - Object.create()
+ *JAVASCRIPT LANJUTAN - Prototype
+ *JAVASCRIPT LANJUTAN - Execution, Context, Hoisting & Scope
+ *JAVASCRIPT LANJUTAN - Closure
+ *JAVASCRIPT LANJUTAN - Arrow Function
+ *JAVASCRIPT LANJUTAN - this pada Arrow Function
+ *JAVASCRIPT LANJUTAN - Higher Order Funciton
+ *JAVASCRIPT LANJUTAN - Filter, Map & Reduce
+ *JAVASCRIPT LANJUTAN - Latihan Filter, Map & Reduce
+ *JAVASCRIPT LANJUTAN - Template Literals
+ *JAVASCRIPT LANJUTAN - Template Literals (Latihan 1)
+ *JAVASCRIPT LANJUTAN - Tagged Tamplate Literals
+ *JAVASCRIPT LANJUTAN - Destructuring Assignment
+ *JAVASCRIPT LANJUTAN - Destructuring Function
+ *JAVASCRIPT LANJUTAN - for...of VS for...in
+ *JAVASCRIPT LANJUTAN - Spread Operator
+ *JAVASCRIPT LANJUTAN - Rest Parameter
+ *JAVASCRIPT LANJUTAN - Asynchronous JAVASCRIPT
+ *JAVASCRIPT LANJUTAN - Callback
+ *JAVASCRIPT LANJUTAN - Promise
+ *JAVASCRIPT LANJUTAN - Callback (Latian )
+ *JAVASCRIPT LANJUTAN - Fetch
+ *JAVASCRIPT LANJUTAN - Fetch Refactor (Async Await)
+ *JAVASCRIPT LANJUTAN - Async Await
+ *JAVASCRIPT LANJUTAN - Error Handling
